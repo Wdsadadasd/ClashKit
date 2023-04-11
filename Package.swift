@@ -1,4 +1,4 @@
-// swift-tools-version: 5.7
+// swift-tools-version: 5.5
 
 import PackageDescription
 
@@ -10,8 +10,8 @@ let package = Package(
   targets: [
     .binaryTarget(
       name: "ClashKit",
-      url: "https://github.com/daemooon/ClashKit/releases/download/1.8.18/ClashKit.xcframework.zip",
-      checksum: "f8b8ee5b71b59053d156a3905df838e71ac434102f76a2797396bd6232c8b8df"
+      url: "https://github.com/daemonomead/ClashKit/releases/download/1.3.0/ClashKit.xcframework.zip",
+      checksum: "8171d3d3f9ee7998f1c4b39ec76fd1c6c35767f6b33df4c7a71de059882ca5a9"
     )
   ]
 )
